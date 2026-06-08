@@ -8,3 +8,4 @@ jobs:
            run: |
               echo "This is first line"
               echo "This is second line"
+              echo "This is Thied line"
